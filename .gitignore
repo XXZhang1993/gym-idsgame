@@ -1,5 +1,6 @@
 .idea
-
+.png
+.git
 *.log
 *.csv
 
