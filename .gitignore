@@ -1,7 +1,9 @@
 .idea
-
+.png
+.git
 *.log
 *.csv
+myenv
 
 */videos/*
 */gifs/*
